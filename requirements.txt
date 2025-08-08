@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+opencv-python
+inference-sdk
+python-dotenv
