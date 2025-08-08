@@ -45,4 +45,5 @@ def handle_photo(message):
     bot.send_message(message.chat.id, 'Результат: ' + answer)
 # Запускаем бота
 
+
 bot.polling(none_stop=True, interval=0)
